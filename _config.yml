@@ -19,14 +19,14 @@ title: Exposing Evangel Bible Church of Berkeley # the main title
 tagline: An expose of the spiritual abuses of John, Nancy, and Abigail Shim # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  John Shim Nancy Shim Evangel Bible Church of Berkeley EBCB
+  Sounding the alarm about Evangel Bible Church of Berkeley
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
 url: ""
 
 github:
-  username: NR7CIsHpXVOqw7lsoILG # change to your github username
+  username: # change to your github username
 
 twitter:
   username: exposingevangel # change to your twitter username
